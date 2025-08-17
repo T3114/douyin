@@ -1,0 +1,15 @@
+{
+  "name": "video-parse-api",
+  "version": "1.0.0",
+  "description": "Video parsing API for WeChat Mini Program",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["video", "parse", "douyin", "kuaishou"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
